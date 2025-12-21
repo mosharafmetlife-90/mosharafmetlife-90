@@ -1,4 +1,4 @@
-<img src="(https://i.ibb.co.com/Tx3sWJFx/ok-ok-Gray-Minimalist-Real-Estate-Linkedin-Article-Cover-Image.jpg)">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQG-XvhAvkU6NQ/profile-displaybackgroundimage-shrink_350_1400/B56Zr0zm.DHkAY-/0/1765043765265?e=1767830400&v=beta&t=2unMc2dPdMY_zB1eHkQGp-3cfL6ITCj-qDBvA5NcNi8">
 
 <h3 align="center">Creative Web Designer developer & WordPress Expert Let us talk about your project. I would be interested in knowing what you are creating. Thanks for visit</h3>
 
