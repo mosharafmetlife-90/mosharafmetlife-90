@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQG-XvhAvkU6NQ/profile-displaybackgroundimage-shrink_350_1400/B56Zr0zm.DHkAY-/0/1765043765265?e=1775692800&v=beta&t=19NVDSBxh7HIgQne6u_IeDf8a3MxbPROmkOYz5Dqbro">
+<img src="[https://media.licdn.com/dms/image/v2/D5616AQG-XvhAvkU6NQ/profile-displaybackgroundimage-shrink_350_1400/B56Zr0zm.DHkAY-/0/1765043765265?e=1775692800&v=beta&t=19NVDSBxh7HIgQne6u_IeDf8a3MxbPROmkOYz5Dqbro](https://media.licdn.com/dms/image/v2/D5616AQG-XvhAvkU6NQ/profile-displaybackgroundimage-shrink_200_800/B56Zr0zm.DHkAU-/0/1765043765265?e=1777507200&v=beta&t=H5Ljm39JakJ5vcX7ZJQvE6b6VWaCJ3CElVXnEmS4NwI)">
 
 <h3 align="center">Creative Web Designer developer & WordPress Expert Let us talk about your project. I would be interested in knowing what you are creating. Thanks for visit</h3>
 
