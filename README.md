@@ -1,4 +1,5 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQG-XvhAvkU6NQ/profile-displaybackgroundimage-shrink_350_1400/B56Zr0zm.DHkAY-/0/1765043765265?e=1781740800&v=beta&t=bzxD2OpkpwteufQPs-kzxloS6uUZRdAE9NAzLw9USZA">
+<img src="<img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/8c4eb124-72ae-4ac4-af6b-a7b1c95b1e09" />
+">
 
 <h3 align="center">Creative Web Designer developer & WordPress Expert Let us talk about your project. I would be interested in knowing what you are creating. Thanks for visit</h3>
 
